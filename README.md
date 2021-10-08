@@ -13,7 +13,7 @@ I'm Becca. This github account was originally created for the Johns Hopkins Univ
 * Improving my SQL & general DB management skills
 
 ### Recent Projects
-#### At the Recurse Center:
+#### At the [Recurse Center](https://www.recurse.com/):
 * 🏆 [Zulip Awards](https://github.com/MementoMakoMori/ZulipAwards), a Python script that grabs all the public Zulip messages from a given RC batch, drops them into either a SQL or MongoDB, and generates 'awards' based on users' Zulip usage.
 * 🎿 [Virtual Skiers](https://github.com/MementoMakoMori/VirtualSkiers), a little Virtual Recurse Center bot that includes a ski lodge and animated emojis skiing within the virtual space.
 #### Other:

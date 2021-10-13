@@ -1,6 +1,6 @@
 What's happening here?
 ------------
-Hi, I'm Becca! This github account was originally created for the Johns Hopkins University/Coursera Data Science certificate program, and since that has finished I keep my ongoing and finished projects here.
+Hi, I'm Becca! This github account was originally created for the Johns Hopkins University/Coursera Data Science certificate program, and since I have completed that, I keep my ongoing and finished projects here.
 
 ### I'm currently working on...
 * Job Applications

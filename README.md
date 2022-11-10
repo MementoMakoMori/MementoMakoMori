@@ -4,15 +4,16 @@ Hi, I'm Becca! This github account was originally created for the Johns Hopkins 
 
 ### I'm currently working on...
 * Job Applications
+* [Python implementation of the twitter-text repository](https://github.com/twitter/twitter-text)
 * [Job Description/Wookieepedia Generator](https://github.com/MementoMakoMori/JobGenerator) - Using a RNN to generate job posts from a galaxy far, far away!
 
 ### In general, I'm interested in...
 * Language models
 * Scraping web content
-* Finding patterns in unconventional/unstructured data
-* Improving my SQL & general DB management skills
+* Exploring unconventional/unstructured data
+* Improving my SQL & general data management skills
 
-### Recent Projects
+### Other Projects
 #### At the [Recurse Center](https://www.recurse.com/):
 * 🏆 [Zulip Awards](https://github.com/MementoMakoMori/ZulipAwards), a Python script that grabs all the public Zulip messages from a given RC batch, drops them into either a SQL or MongoDB, and generates 'awards' based on users' Zulip usage.
 * 🎿 [Virtual Skiers](https://github.com/MementoMakoMori/VirtualSkiers), a little Virtual Recurse Center bot that includes a ski lodge and animated emojis skiing within the virtual space.

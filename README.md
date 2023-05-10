@@ -3,8 +3,8 @@ What's happening here?
 Hi, I'm Becca! This github account was originally created for the Johns Hopkins University/Coursera Data Science certificate program, and since I have completed that, I keep my ongoing and finished projects here.
 
 ### I'm currently working on...
-* Job Applications
-* [Python implementation of the twitter-text repository](https://github.com/twitter/twitter-text)
+* Collecting job description text data.
+* Exploring data visualization tools.
 * [Job Description/Wookieepedia Generator](https://github.com/MementoMakoMori/JobGenerator) - Using a RNN to generate job posts from a galaxy far, far away!
 
 ### In general, I'm interested in...

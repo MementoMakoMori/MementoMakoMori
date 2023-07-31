@@ -1,19 +1,21 @@
 What's happening here?
 ------------
-Hi, I'm Becca! This github account was originally created for the Johns Hopkins University/Coursera Data Science certificate program, and since I have completed that, I keep my ongoing and finished projects here.
+Hi, I'm Becca! This github account was originally created for the Johns Hopkins University/Coursera Data Science certificate program. Since completing that, I keep my ongoing and finished projects here.
 
 ### I'm currently working on...
 * Building a computer from nand gates with [the Nand2Tetris course](https://www.nand2tetris.org/).
-* Digging into back propogation with Andrej Karpathy's [Zero to Hero lectures](https://karpathy.ai/zero-to-hero.html).
-* Exploring data visualization tools.
-* Revisiting this old [Job Generator](https://github.com/MementoMakoMori/JobGenerator) to build a much more sophisticated model.
-  * Step 1: create a graph database connecting [Star Wars occupations to organizations and locations](https://github.com/MementoMakoMori/WookieeText). 
+  * Chapter 8: Writing a game in the jack language
+* Catching up on [AI Safety readings](https://aisafetyfundamentals.com/) with a study group.
+* Revisiting this old [Job Generator](https://github.com/MementoMakoMori/JobGenerator) to build a much more sophisticated model. So far I've done...
+  * Step 1: create a graph database connecting [Star Wars occupations to organizations and locations](https://github.com/MementoMakoMori/WookieeText)
+  * Step 2: scrape a [corpora of job descriptions](https://github.com/MementoMakoMori/JobScraper)
+  * Step 3: train a [transformer model](https://github.com/MementoMakoMori/KerasNLPPractice) on the job text
 
 ### In general, I'm interested in...
 * Language models
-* Scraping web content
-* Exploring unconventional/unstructured data
+* Unconventional data
 * Improving my SQL & general data management skills
+* Expanding my backend dev toolbox
 
 ### Other Projects
 #### At the [Recurse Center](https://www.recurse.com/):

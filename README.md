@@ -4,7 +4,7 @@ Hi, I'm Becca! This github account was originally created for the Johns Hopkins 
 
 ### I'm currently working on...
 * Building a computer from nand gates with [the Nand2Tetris course](https://www.nand2tetris.org/).
-  * Chapter 9: Writing a game (Tetris!) in the jack language
+  * Chapter 10: parsing the 'Jack' language's tokens according to its syntax.
 * Catching up on [AI Safety readings](https://aisafetyfundamentals.com/) with a study group.
 * Revisiting this old [Job Generator](https://github.com/MementoMakoMori/JobGenerator) to build a much more sophisticated model. So far I've done...
   * Step 1: create a graph database connecting [Star Wars occupations to organizations and locations](https://github.com/MementoMakoMori/WookieeText)

@@ -12,10 +12,10 @@ Hi, I'm Becca! This github account was originally created for the Johns Hopkins 
   * Step 3: train a [transformer model](https://github.com/MementoMakoMori/KerasNLPPractice) on the job text
 
 ### In general, I'm interested in...
-* Language models
-* Unconventional data
-* Improving my SQL & general data management skills
-* Expanding my backend dev toolbox
+* Expanding my dev toolbox
+* Playing with language processing
+* Brushing up on my SQL & general data management skills
+
 
 ### Other Projects
 #### At the [Recurse Center](https://www.recurse.com/):
